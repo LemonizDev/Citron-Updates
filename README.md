@@ -2,9 +2,9 @@
 
 <h2 align = 'center'> Welcome to Citron bot's updates! </h2>
 
-### The latest Version is [v1.8.6](https://github.com/LemonizDev/Citron-Updates/blob/main/releases/v1.8.6.md)
+### The latest Version is [v1.8.8](https://github.com/LemonizDev/Citron-Updates/blob/main/releases/1.8.8.md)
 
-### [Latest announcement](https://github.com/LemonizDev/Citron-Updates/blob/main/updates/awaiting%20verification.md)
+### [Latest announcement](https://github.com/LemonizDev/Citron-Updates/blob/main/updates/verification%20notice.md)
 
 Make sure to invite Citron [here](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=6442319863)
 
