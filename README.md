@@ -74,7 +74,7 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 
 > `🌟` **-** Verified by **discord**
 > 
-> `📈` **-** **6k+** Users!
+> `📈` **-** **50k+** Users!
 > 
 > `👍` **-** Rated **4.9** stars on top.gg!
 >
