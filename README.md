@@ -18,7 +18,7 @@
      <img src="https://img.shields.io/badge/Developer-LemonizDev-blue.svg" alt="build">
   </a>
   <a href="https://github.com/LemonizDev/Citron-Updates/blob/main/releases/1.8.8.md">
-     <img src="https://img.shields.io/badge/npm package-v1.8.8-blue.svg" alt="build">
+     <img src="https://img.shields.io/badge/npm package-v1.9.7-blue.svg" alt="build">
   </a>
   <a href="https://top.gg/bot/907821047070478347">
   <img src="https://top.gg/api/widget/upvotes/907821047070478347.svg?noavatar=true">
