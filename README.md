@@ -51,7 +51,7 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 > 
 > `🛠️` **-**   Custom  **utility** commands!
 > 
-> `👋` **-**   **Welcome** and **Goodbye** message system!
+> `👋` **-**   Effective **Welcome** and **Goodbye** message system!
 > 
 > `🎮` **-**  LOTS of **mini-games**!
 > 
