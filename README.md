@@ -76,11 +76,11 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 
 > `🌟` **-** Verified by **discord**
 > 
-> `📈` **-** **55k+** Users!
+> `📈` **-** **60k+** Users!
 > 
 > `👍` **-** Rated **4.9** stars on top.gg!
 >
 > `👍` **-** Rated **4.6** stars on discordbotlist.com!
 > 
-> `📊` **-** **430+** Guilds!!
+> `📊` **-** **530+** Guilds!!
 
