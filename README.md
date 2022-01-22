@@ -82,5 +82,5 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 >
 > `👍` **-** Rated **4.6** stars on discordbotlist.com!
 > 
-> `📊` **-** **730+** Guilds!!
+> `📊` **-** **790+** Guilds!!
 
