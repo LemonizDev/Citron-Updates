@@ -53,6 +53,10 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 > 
 > `👋` **-**   Effective **Welcome** and **Goodbye** message system!
 > 
+> `🔃` **-**  Efficient Auto-role system!
+>
+> `🔫` **-** Custom triggers and automated responses
+> 
 > `🎮` **-**  LOTS of **mini-games**!
 > 
 > `🤡` **-**  Fun  **troll** commands!
