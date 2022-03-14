@@ -26,7 +26,7 @@
 </p>
  
 <p align="center">
-  <a href="https://github.com/LemonizDev/Citron-Updates/blob/main/releases/v2.1.3.md">Latest Build</a>
+  <a href="https://github.com/LemonizDev/Citron-Updates/blob/main/releases/v2.6.5.md">Latest Build</a>
   •
   <a href="https://top.gg/bot/907821047070478347/invite">Invite</a>
   •
