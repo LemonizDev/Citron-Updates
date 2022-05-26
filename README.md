@@ -26,7 +26,7 @@
 </p>
  
 <p align="center">
-  <a href="https://github.com/LemonizDev/Citron-Updates/blob/main/releases/v2.6.5.md">Latest Build</a>
+  <a href="https://github.com/LemonizDev/Citron-Updates/blob/main/releases/v2.8.2.md">Latest Build</a>
   •
   <a href="https://top.gg/bot/907821047070478347/invite">Invite</a>
   •
@@ -86,5 +86,5 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 >
 > `👍` **-** Rated **4.6** stars on discordbotlist.com!
 > 
-> `📊` **-** **1100+** Guilds!!
+> `📊` **-** **110,000+** Guilds!!
 
