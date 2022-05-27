@@ -80,11 +80,11 @@ This repository can be used for bugs, issues or suggestions about the bot! Alter
 
 > `🌟` **-** Verified by **discord**
 > 
-> `📈` **-** **160k+** Users!
+> `📈` **-** **160,000+** Users!
 > 
 > `👍` **-** Rated **4.9** stars on top.gg!
 >
 > `👍` **-** Rated **4.6** stars on discordbotlist.com!
 > 
-> `📊` **-** **110,000+** Guilds!!
+> `📊` **-** **1500+** Guilds!!
 
